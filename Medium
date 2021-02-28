@@ -1,0 +1,45 @@
+Phaser I: A Yield Generating ICO Simulator
+
+How to interact with the dApp?
+
+You must download the Metamask chrome extension. https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+
+By default, Metamask will be connected to the mainnet network. Please follow the instructions below to connect to Binance’s BSC chain.
+https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
+
+If you have insufficient BNB you can purchase BNB at Binance.
+
+How does it work?
+
+There will be a daily auction for 12 months (366 days), in which a decreasing amount of tokens are available per month.
+
+The emission thus follows the formula (12000 - 1000n) x 30.5 days, n being the month. When an auction opens, you enter the auction by sending BNB.
+
+After a day, the max tokens available for that particular day will be divided by the total BNB pooled, which will establish the exchange rate, upon which basis you will receive your tokens. 
+
+For example, if 12000 PHX were on offer, and 100 BNB were pooled, provided 100 people submitted 1 BNB each, you would each receive 120 PHX.
+
+What happens to the pooled BNB?
+
+All of the pooled BNB is sent directly to the dividend pool in the staking smart contract as soon as the BNB is entered in an auction. 
+
+How do I receive dividends?
+
+Simply add liquidity to the PHX-BNB Pancakeswap pool, and transfer your LP tokens to the staking contract through our simple and intuitive dApp. 
+
+Are there locking/unlocking periods for staking?
+
+No! Our staking experience is completely unrestricted and free. You can stake/unstake at any point at your discretion. Though staking as early and for as long as possible will permit you to accrue greater dividends.
+
+Do I have to withdraw tokens to withdraw divs?
+
+No! You can leave your PHX-BNB LP tokens staked and click the ‘Claim’ button on the dApp to withdraw your dividends. Each action is independent.
+
+Why are we required to stake PHX-BNB LPs and not just PHX?
+
+It encourages greater liquidity provision in the Pancakeswap pool, and because of how AMMs work this will naturally boost the price, positive feedback loops will then push the price higher. This encourages further positive feedback loops through increased participation in our daily auctions, which also increases dividends to PHX-BNB LP providers. Briefly, it sets the foundation for a self sustaining system, and provides the bedrock for solid pumpamentals.
+
+How can I make my transaction confirm faster?
+
+BSC is already fairly fast but you can increase the gas price on metamask.
+
